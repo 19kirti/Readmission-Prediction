@@ -37,7 +37,7 @@ READMISSION PREDICTION FOR HEART FAILURE/
 
 ## Models Implemented
 - Logistic Regression
-- Random Forest
+- Random Forest Classifier
 - Gradient Boosting
 - XGBoost
 - LightGBM
