@@ -1,0 +1,2 @@
+conda create -p ./venv python=3.12 -y
+conda activate "C:\Users\jasje\Desktop\ML\Readmission prediction for heart failure\venv"
